@@ -1,0 +1,15 @@
+Langsniff
+=========
+
+Langsniff is a simple, fast, language detection program written in [ooc](http://ooc-lang.org). Pass it a text file and it should be able to figure out or at least roughly guess which language the file is written in. Langsniff uses a very simple algorithm based on built-in word frequency lists. 
+
+Supported languages:
+--------------------
+
+- English
+- Esperanto (yeah)
+- French
+- German
+- Italian
+- Spanish
+- Dutch
