@@ -1,0 +1,12 @@
+Una centrífuga es una máquina que pone en rotación una muestra para separar por 
+fuerza centrífuga sus componentes o fases (generalmente una sólida y una 
+líquida), en función de su densidad. Existen diversos tipos de, comúnmente para 
+objetivos específicos. Una aplicación típica consiste en acelerar el proceso de 
+sedimentación, dividiendo el plasma y el suero en un proceso de análisis de 
+laboratorio. También se utiliza para determinar el grupo sanguíneo mediante una 
+toma de muestra capilar. En este caso la máquina utilizada se denomina 
+microcentrífuga. Es muy usada en laboratorios de control de calidad, de 
+fabricas que elaboran zumos a base de citricos, para controlar el nivel de 
+pulpa fina de estos, separando la pulpa fina del zumo exprimido.
+
+-- From the Spanish Wikipedia article "Centrífuga", CC-BY-SA

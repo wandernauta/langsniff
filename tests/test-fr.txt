@@ -1,0 +1,14 @@
+Une centrifugeuse est un appareil destiné à imprimer une accélération, grâce à 
+un mouvement de rotation, à un mélange liquide-solide (par exemple, un 
+colloïde). Le plus souvent, le mélange est déposé dans un récipient perforé de 
+multiples orifices, la taille de ceux-ci étant suffisamment grande pour laisser 
+passer le liquide et assez petite pour empêcher le passage du solide. Ce type 
+d'appareil peut aussi servir à séparer les mélanges constitués de parties ayant 
+une densité différente.
+
+L'essoreuse à salade en est une : sous l'effet de la rotation, une accélération 
+due à une force centrifuge est appliquée au contenu. Les feuilles de laitue sont 
+bloquées par les parois du panier perforé et l'eau est éjectée sur les parois du 
+récipient : le corps dense est séparé du corps moins dense.
+
+-- From the French Wikipedia article "Centrifugeuse", CC-BY-SA
