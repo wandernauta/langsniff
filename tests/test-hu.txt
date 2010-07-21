@@ -1,0 +1,16 @@
+Az Enigma titkos üzenetek sifrírozására (titkosítására, kriptográfiai eljárás 
+kódolására, rejtjelezésére) és desifrírozására (visszafejtésére) használt, 
+német gyártmányú, forgótárcsás, elektromechanikus berendezés. Az első Enigmát 
+Arthur Scherbius német mérnök fejlesztette ki, az első világháború végén.
+Ezt a modellt, illetve változatait, az 1920-as évektől kereskedelmi céllal 
+kezdték el alkalmazni. Alkalmazták már a spanyol polgárháborúban is, majd a 
+második világháború kitörése előtt számos ország szolgálatba állította. Többek 
+között a Harmadik Birodalom is. Az Enigmát használói abszolút biztonságosnak 
+tartották, mivelhogy a géppel kódolt szövegek hagyományos módon 
+megfejthetetlenek voltak. Használói azonban nem számoltak azzal, hogy a gép 
+által generált titkos szöveget egy másik gép segítségével meg lehet fejteni. 
+Az Enigma feltörhetetlennek tartott kódolását az angolok és a franciák kudarcai 
+után először a lengyel Marian Rejewski vezette, kriptográfusokból és más 
+matematikusokból álló csoport törte fel 1932-ben.
+
+-- From the Hungarian Wikipedia article "Enigma (gép)", CC-BY-SA

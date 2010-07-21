@@ -1,5 +1,5 @@
 import structs/[ArrayList, HashMap]
-import words/[English, Esperanto, French, German, Italian, Spanish, Dutch]
+import words/[English, Esperanto, French, German, Italian, Spanish, Dutch, Hungarian]
 import text/StringTokenizer
 import io/File
 
@@ -13,6 +13,7 @@ main: func(args: ArrayList<String>) {
     langs put("Italian", Italian as ArrayList<String>)
     langs put("Spanish", Spanish as ArrayList<String>)
     langs put("Dutch", Dutch as ArrayList<String>)                
+    langs put("Hungarian", Hungarian as ArrayList<String>)     
     langnames := langs getKeys()
     
     if (args size() < 2) { "Usage: langsniff FILE" println(); exit(0); }
