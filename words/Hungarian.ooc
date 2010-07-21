@@ -10,14 +10,14 @@
 // Copied 17 July 2010 for use with the langsniff language detection program
 
 Hungarian := ["a", "meg", "vagy", "van", "volt", "kell", "mint", "azt", "akkor",
-"sem", "lehet", "mert", "minden", "olyan", "szerint", "pedig", "ezt", "nagy", 
-"fel", "majd", "nem", "nagyon", "aki", "most", "lesz", "itt", "magyar", "ami", 
+"sem", "lehet", "mert", "minden", "olyan", "szerint", "pedig", "ezt", "nagy",
+"fel", "majd", "nem", "nagyon", "aki", "most", "lesz", "itt", "magyar", "ami",
 "amely", "hanem", "nincs", "illetve", "alatt", "egyik", "volna", "amit", "arra",
-"kft", "ilyen", "azonban", "sok", "amikor", "valamint", "egy", "akik", "ember", 
-"ahol", "ott", "annak", "vagyok", "mindig", "miatt", "mellett", "kis", "lenne", 
+"kft", "ilyen", "azonban", "sok", "amikor", "valamint", "egy", "akik", "ember",
+"ahol", "ott", "annak", "vagyok", "mindig", "miatt", "mellett", "kis", "lenne",
 "mit", "vannak", "lett", "igen", "teljes", "ma", "hiszen", "milyen", "mely",
- "mind", "valami", "viszont", "legyen", "tudom", "amelyek", "ezek", "adott", 
- "nagyobb", "magyar", "azok", "ennek", "nekem", "erre", "neki", "ezzel", 
- "mivel", "ezen", "fontos", "jobb", "benne", "esetben", "program", "voltak", 
- "fog", "teljesen", "maga", "rendszer", "nap", "egyes", "ebben", "kellett", 
+ "mind", "valami", "viszont", "legyen", "tudom", "amelyek", "ezek", "adott",
+ "nagyobb", "magyar", "azok", "ennek", "nekem", "erre", "neki", "ezzel",
+ "mivel", "ezen", "fontos", "jobb", "benne", "esetben", "program", "voltak",
+ "fog", "teljesen", "maga", "rendszer", "nap", "egyes", "ebben", "kellett",
  "minden", "egyre", "csak", "valaki"]

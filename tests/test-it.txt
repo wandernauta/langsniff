@@ -1,13 +1,13 @@
-Ne sono un esempio le centrifughe usate nel laboratorio di analisi, in cui la 
-provetta viene disposta in un apposito contenitore, e la frazione solida fatta 
-decantare nella provetta stessa. In condizioni standard di riempimento e 
-accelerazione, viene poi misurato il sedimento in percentuale del totale 
-della miscela. Nei laboratori di analisi biomedica, la centrifuga serve per 
-separare la parte acquosa di un liquido biologico dalla parte corpuscolare, 
-ad esempio, il siero dall'ematocrito. In alcuni casi, per impedire il 
-successivo contatto tra le sostanze separate, si usano provette contenenti 
-un gel separatore con un peso specifico appositamente studiato per interporsi 
-fra siero e residuo solido. Una centrifugazione standard per la separazione 
+Ne sono un esempio le centrifughe usate nel laboratorio di analisi, in cui la
+provetta viene disposta in un apposito contenitore, e la frazione solida fatta
+decantare nella provetta stessa. In condizioni standard di riempimento e
+accelerazione, viene poi misurato il sedimento in percentuale del totale
+della miscela. Nei laboratori di analisi biomedica, la centrifuga serve per
+separare la parte acquosa di un liquido biologico dalla parte corpuscolare,
+ad esempio, il siero dall'ematocrito. In alcuni casi, per impedire il
+successivo contatto tra le sostanze separate, si usano provette contenenti
+un gel separatore con un peso specifico appositamente studiato per interporsi
+fra siero e residuo solido. Una centrifugazione standard per la separazione
 del sangue dura una decina di minuti a circa 3000 giri/min.
 
 -- From the Italian Wikipedia article "Centrifuga", CC-BY-SA

@@ -1,15 +1,15 @@
-A centrifuge is a piece of equipment, generally driven by an electric motor 
-(some older models were spun by hand), that puts an object in rotation around 
-a fixed axis, applying a force perpendicular to the axis. The centrifuge works 
-using the sedimentation principle, where the centripetal acceleration causes 
-more dense substances to separate out along the radial direction (the bottom 
-of the tube). By the same token, lighter objects will tend to move to the top 
-(of the tube; in the rotating picture, move to the centre). In the picture 
-shown, the rotating unit, called the rotor, has fixed holes drilled at an 
-angle (to the vertical). Test tubes are placed in these slots and the rotor 
-is spun. As the centrifugal force is in the horizontal plane and the tubes 
-are fixed at an angle, the particles have to travel only a little distance 
-before they hit the wall and drop down to the bottom. These angle rotors are 
+A centrifuge is a piece of equipment, generally driven by an electric motor
+(some older models were spun by hand), that puts an object in rotation around
+a fixed axis, applying a force perpendicular to the axis. The centrifuge works
+using the sedimentation principle, where the centripetal acceleration causes
+more dense substances to separate out along the radial direction (the bottom
+of the tube). By the same token, lighter objects will tend to move to the top
+(of the tube; in the rotating picture, move to the centre). In the picture
+shown, the rotating unit, called the rotor, has fixed holes drilled at an
+angle (to the vertical). Test tubes are placed in these slots and the rotor
+is spun. As the centrifugal force is in the horizontal plane and the tubes
+are fixed at an angle, the particles have to travel only a little distance
+before they hit the wall and drop down to the bottom. These angle rotors are
 very popular in the lab for routine use.
 
 -- From the English Wikipedia article "Centrifuge", CC-BY-SA

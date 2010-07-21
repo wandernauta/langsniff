@@ -1,15 +1,15 @@
-Zentrifugen nutzen die Massenträgheit im Zentrifugiergutraum zur Stofftrennung. 
-Partikel oder Medien mit höherer Dichte wandern aufgrund der höheren Trägheit 
-nach außen. Dabei verdrängen sie die Bestandteile mit niedrigerer Dichte, die 
-hierdurch zur Mitte gelangen. Der Prozess ist gegenüber der Sedimentation durch 
-die Schwerkraft wesentlich schneller oder wird überhaupt erst möglich - 
-Gegenkräfte wie die Adhäsion, die thermische Molekularbewegung oder die 
+Zentrifugen nutzen die Massenträgheit im Zentrifugiergutraum zur Stofftrennung.
+Partikel oder Medien mit höherer Dichte wandern aufgrund der höheren Trägheit
+nach außen. Dabei verdrängen sie die Bestandteile mit niedrigerer Dichte, die
+hierdurch zur Mitte gelangen. Der Prozess ist gegenüber der Sedimentation durch
+die Schwerkraft wesentlich schneller oder wird überhaupt erst möglich -
+Gegenkräfte wie die Adhäsion, die thermische Molekularbewegung oder die
 Viskosität werden überwunden.
 
-Die Beschleunigung a ist von der Masse bzw. Dichte der Stoffe unabhängig; die 
-Stofftrennung erfolgt aufgrund der Dichteunterschiede (erhöhte Differenz der 
-Zentripetalkräfte, zum Beispiel Laborzentrifuge, Gaszentrifuge) oder durch ein 
-die Feststoffe zurückhaltendes Sieb (zum Beispiel Wäsche- und Salatschleuder 
+Die Beschleunigung a ist von der Masse bzw. Dichte der Stoffe unabhängig; die
+Stofftrennung erfolgt aufgrund der Dichteunterschiede (erhöhte Differenz der
+Zentripetalkräfte, zum Beispiel Laborzentrifuge, Gaszentrifuge) oder durch ein
+die Feststoffe zurückhaltendes Sieb (zum Beispiel Wäsche- und Salatschleuder
 oder auch Fliehkraft-Entsafter (Fruchtsaftzentrifuge).
 
 -- From the German Wikipedia article "Zentrifuge", CC-BY-SA
