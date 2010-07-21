@@ -6,10 +6,11 @@ Langsniff is a simple, fast, language detection program written in [ooc](http://
 Supported languages:
 --------------------
 
+- Dutch
 - English
 - Esperanto (yeah)
 - French
 - German
+- Hungarian
 - Italian
 - Spanish
-- Dutch
