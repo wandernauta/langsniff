@@ -37,7 +37,8 @@ main: func(args: ArrayList<String>) {
         word = word toLower()
         for (lang in langnames) {
             curlang := langs[lang] as ArrayList<String>
-            for (lword in curlang) {
+            for (i in 0..curlang size()) {
+                lword := curlang[i]
                 if (lword == word) {
                     scores[lang] = scores[lang] + (100 - curlang indexOf(lword))
                 }
