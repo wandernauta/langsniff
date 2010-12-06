@@ -16,7 +16,7 @@ main: func(args: ArrayList<String>) {
     langs put("Spanish", Spanish as ArrayList<String>)
     langnames := langs getKeys()
 
-    if (args size() < 2) { "Usage: langsniff FILE" println(); exit(0); }
+    if (args size < 2) { "Usage: langsniff FILE" println(); exit(0); }
 
     /*
     "This is %s, analyzing with %d word lists:" printfln(args[0] split("/") toList() last(), langs size())
