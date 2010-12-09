@@ -14,3 +14,5 @@ Supported languages:
 - Hungarian
 - Italian
 - Spanish
+
+Adding support for other languages is not currently planned, but if you have a good (free) word frequency list, go ahead and fork this repo!
